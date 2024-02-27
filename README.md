@@ -7,10 +7,6 @@
 
 <br/>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=agustin-chavez&" alt="agustin-chavez" /></p>
-
-<br/>
-
 <div align="center">
 
   🔭 I’m currently working on a trading wallet app using **Flask** and **Python** 🐍 for my **CS50's Final Project** 🔭
@@ -27,3 +23,6 @@
 
 </div>
 
+<br/>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=agustin-chavez&" alt="agustin-chavez" /></p>
