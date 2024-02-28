@@ -5,6 +5,8 @@
   <div>I'm a <b>Software Engineer</b></div>
 </h3>
 
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=agustin-chavez&" alt="agustin-chavez" /></p>
+
 <br/>
 
 <div align="center">
@@ -25,4 +27,6 @@
 
 <br/>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=agustin-chavez&" alt="agustin-chavez" /></p>
+## Technologies
+
+![stack](https://github.com/agustin-chavez/agustin-chavez/assets/39955956/7835e32d-b834-4591-9f2c-d0b3f76881ec)
