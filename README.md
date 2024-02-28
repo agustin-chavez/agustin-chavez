@@ -1,11 +1,7 @@
 <h1 align="center">Hello 🌎 world</h1>
-<h3 align="center">
-  <div>My name is <b>Agustín</b></div> 
-  ✨ and ✨
-  <div>I'm a <b>Software Engineer</b></div>
-</h3>
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=agustin-chavez&" alt="agustin-chavez" /></p>
+<div align="center">
+  <h3>✨ My name is <b>Agustín</b> and I'm a <b>Software Engineer</b> ✨</h3>
+</div>
 
 <br/>
 
@@ -27,6 +23,16 @@
 
 <br/>
 
-## Technologies
+<div align="center">
+  <h2>Github Stats</h2>
+</div>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=agustin-chavez&" alt="agustin-chavez" /></p>
+
+<br/>
+
+<div align="center">
+  <h2>Technologies</h2>
+</div>
 
 ![stack](https://github.com/agustin-chavez/agustin-chavez/assets/39955956/7835e32d-b834-4591-9f2c-d0b3f76881ec)
