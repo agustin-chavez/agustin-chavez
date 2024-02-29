@@ -1,4 +1,7 @@
 <h1 align="center">Hello 🌎 world</h1>
+
+![banner](https://github.com/agustin-chavez/agustin-chavez/assets/39955956/284ab5d8-f5d9-4631-befc-3b665e38032a)
+
 <div align="center">
   <h3>✨ My name is <b>Agustín</b> and I'm a <b>Software Engineer</b> ✨</h3>
 </div>
