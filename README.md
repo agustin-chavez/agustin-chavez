@@ -9,12 +9,18 @@
 <br/>
 
 <div align="center">
+  
+  🔭 I'm currently working on building a showcase, as most of my previous projects and collaborations were in private organizational repositories, requiring confidentiality and security.  🔭
 
-  🔭 I’m currently working on a trading wallet app using **Flask** and **Python** 🐍 for my **CS50's Final Project** 🔭
+  🐍 Right now I'm building a blog application and a trading wallet app using **Flask** and **Python** 🐍
+
+  ☕️ With some coffee on I'm going to build some apps with Java and Spring Boot ☕️
   
-  🌱 I’m currently learning **AWS** and **Kubernetes** 🌱
+  🌱 My next steps are learning **AWS, Kubernetes, RabbitMQ and Kafka** 🌱
   
-  👯 I’m looking to collaborate on **Scala projects** in the near future 👯
+  🔴 I’m looking to collaborate on **Scala projects** in the near future 🔴
+
+  📚 My upcoming reads include 'Building Microservices' by Sam Newman and 'The Pragmatic Programmer' by Andy Hunt and Dave Thomas, delving into software development insights and best practices. 📚
   
   📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/agustinchavez/) 📫
   
