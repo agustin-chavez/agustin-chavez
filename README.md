@@ -10,17 +10,10 @@
 
 <div>
   
-  🔭 I'm currently working on building a showcase, as most of my previous projects and collaborations were in private organizational repositories, requiring confidentiality and security.
-  
-  🌱 My next steps are learning **AWS and Kubernetes**
-
-  📚 My upcoming reads include **'Building Microservices'** by Sam Newman and **'The Pragmatic Programmer'** by Andy Hunt and Dave Thomas, delving into software development insights and best practices.
-  
   📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/agustinchavez/)
   
   📄 Know about my experience: [Download Resume](https://agustin-chavez.github.io/pdf/CHAVEZ_AGUSTIN_RESUME.pdf)
   
-  ⚡ Fun fact: **I communicate with Simpsons quotes very frequently** ⚡
 
 </div>
 
